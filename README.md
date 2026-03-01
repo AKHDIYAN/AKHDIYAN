@@ -69,14 +69,24 @@
 <br>
 
 <h2 align="center">📫 Let's Connect!</h2>
-<div align="center">
-  <a href="mailto:muhammadakhdiyan@students.unnes.ac.id"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/muhammadraissa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=ffffff&sideNums=ffffff&currStreakNum=ffffff" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/AKHDIYAN"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://tiktok.com/@AKHDIYAN"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=AKHDIYAN&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
+<p align="center">
+  <a href="https://github.com/AKHDIYAN?tab=followers">
+    <img src="https://img.shields.io/github/followers/AKHDIYAN?label=GitHub%20Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="mailto:muhammadakhdiyan@students.unnes.ac.id">
+    <img src="https://img.shields.io/badge/-muhammadakhdiyan@students.unnes.ac.id-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/mrakhdyann/">
+    <img src="https://img.shields.io/badge/-%40AKHDIYAN-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/muhammadraissa">
+    <img src="https://img.shields.io/badge/-muhammadraissa-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://tiktok.com/@AKHDIYAN">
+    <img src="https://img.shields.io/badge/-%40AKHDIYAN-000000?style=flat&logo=TikTok&logoColor=white" alt="TikTok" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=AKHDIYAN&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 <br>
 
 <div align="center">

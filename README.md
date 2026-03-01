@@ -1,20 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Muhammad%20Raissa%20Akhdyan&fontSize=50&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Information%20Systems%20Student&descAlignY=70&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=250&section=header&text=Muhammad%20Raissa%20Akhdyan&fontSize=50&fontColor=ffff00&desc=Full-Stack%20Developer%20%7C%20Information%20Systems%20Student&descColor=ffff00&descAlignY=70&descAlign=50" />
 </div>
 
 <div align="center">
   <a href="https://github.com/AKHDIYAN">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Raissa!+👋;Four+eyes+on+the+code.;Zero+bugs+allowed.;Turning+coffee+into+clean+code." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ffff00&center=true&vCenter=true&width=600&lines=system_init();Hi,+I'm+Raissa!+👋;{code_architect:true};error_count:0;Turning+coffee+into+clean+code." alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
 <h2 align="center">👨‍💻 About Me</h2>
-<p align="center">
-  Welcome to my digital workspace! I am a passionate <b>Software Engineer</b> and an Information Systems student with a strong focus on building scalable, efficient, and user-friendly web applications. I specialize in full-stack development, bridging the gap between robust backend architectures using <b>PHP & Laravel</b> and dynamic frontend interfaces with <b>React</b>. I thrive in environments that challenge me to solve complex problems, optimize workflows, and continuously learn new technologies.
-</p>
-
+<p align="center"> Welcome to my digital workspace! I am a passionate <b>Software Engineer</b> and an Information Systems student with a strong focus on building scalable, efficient, and user-friendly web applications. I specialize in full-stack development, bridging the gap between robust backend architectures using <b>PHP & Laravel</b> and dynamic frontend interfaces with <b>React</b>. I thrive in environments that challenge me to solve complex problems, optimize workflows, and continuously learn new technologies. </p>
 <br>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -53,7 +50,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AKHDIYAN&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7&bg_color=0D1117" height="180" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHDIYAN&layout=donut&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff&bg_color=0D1117" height="180" alt="Top Langs" />
 </div>
-
 <br>
 
 <h2 align="center">📈 Consistency & Activity</h2>
@@ -76,20 +72,19 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AKHDIYAN/AKHDIYAN/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
 <br>
 
 <h2 align="center">📫 Let's Connect!</h2>
 <div align="center">
   <a href="mailto:muhammadakhdiyan@students.unnes.ac.id"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/muhammadraissa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/muhammadraissa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=ffffff&sideNums=ffffff&currStreakNum=ffffff" alt="LinkedIn" /></a>
   <a href="https://instagram.com/AKHDIYAN"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://tiktok.com/@AKHDIYAN"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=AKHDIYAN&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
-
 <br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer" />
 </div>

@@ -1,93 +1,55 @@
-# Hi there, I'm Muhammad Raissa Akhdyan! 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Four+eyes+on+the+code.;Zero+bugs+allowed." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Muhammad%20Raissa%20Akhdyan&fontSize=40&fontColor=ffffff&desc=Four%20eyes%20on%20the%20code.%20Zero%20bugs%20allowed.&descAlignY=65&descAlign=50" />
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</div>
-
----
-
-### 👨‍💻 About Me
-
-Hi, I'm **Muhammad Raissa Akhdyan**, a passionate software developer who thrives on solving challenging problems and writing clean, functional code. I am always looking for ways to innovate and improve the user experience with the technology I build.
-
-- **Full Name**: Muhammad Raissa Akhdyan
-- **Username**: @AKHDIYAN
-- **Quote**: "Four eyes on the code. Zero bugs allowed."
-
-I love collaborating with others and am always looking for new opportunities to grow and push my skills further.
-
----
-
-### 🛠️ Core Tech Stack & Tools
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,git,vscode,figma,postman,react,nodejs,express,ts,python" alt="My Skills" />
+  <a href="https://github.com/AKHDIYAN">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Information+Systems+Student;Full-Stack+Web+Developer;PHP,+Laravel,+React+%26+Docker" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
 ---
 
-### 💻 Projects I'm Working On
+### 👨‍💻 Behind the Code
 
-Here are a few of my personal projects that you might want to check out:
+- 🏢 Currently interning at **Pusdatin KemenPU**, actively developing a Web-based Human Resource Management Information System (SIMPEG).
+- 🎓 Wrapping up my thesis on **Social CRM** based on Payne's Five Process Model.
+- 🌱 Building out my portfolio using **React** and exploring containerization workflows with **Docker**.
+- ⚡ Fun fact: When I'm not coding, I'm usually diving into cybersecurity, exploring project management concepts, or messing around with radio streaming servers (AzuraCast).
 
-- **[Projek-SPK-Web-Sederhana](https://github.com/AKHDIYAN/Projek-SPK-Web-Sederhana)**: A simple decision support system to help make business decisions.
-- **[My Portfolio](https://github.com/AKHDIYAN/Myportfolio)**: My personal portfolio showcasing my projects and development skills.
-- **[Sales Dashboard](https://github.com/AKHDIYAN/sales_dashboard)**: A dashboard that helps businesses track and analyze their sales performance.
-- **[iTask-RPL](https://github.com/AKHDIYAN/iTask-RPL)**: A React app designed to manage tasks efficiently.
+### 🛠️ Arsenal & Tech Stack
 
----
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,react,js,ts,html,css,docker,git,github,vscode,mysql&perline=12" alt="Tech Stack" />
+  </a>
+</div>
 
-### 📊 GitHub Stats & Streak
+### 🏆 GitHub Trophies
 
-Check out my GitHub stats to see how active I am on this platform. 😎
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AKHDIYAN&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</div>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKHDIYAN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="AKHDIYAN's GitHub Stats" />
-</p>
+### 📊 Stats & Top Languages
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKHDIYAN&theme=tokyonight&hide_border=true&background=0D1117" alt="AKHDIYAN's GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AKHDIYAN&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&ring_color=36BCF7" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHDIYAN&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="Top Langs" />
+</div>
 
----
+### 📫 Let's Connect
 
-### 📫 Let's Connect!
-
-Feel free to get in touch with me!
-
-<p align="left">
-  <a href="mailto:email-lu-di-sini@email.com">
+<div align="center">
+  <a href="mailto:muhammadakhdiyan@students.unnes.ac.id">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/linkedin-lu-di-sini">
+  <a href="https://linkedin.com/in/muhammadraissa">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
+</div>
 
----
-
-### 🔥 Extra Features:
-
-#### Animated Background Effects
-```html
-<style>
-  body {
-    background-color: #121212;
-    color: #fff;
-    font-family: 'Fira Code', monospace;
-    margin: 0;
-    padding: 0;
-    animation: fadeIn 3s ease-in-out;
-  }
-
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-</style>
+<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
+</div>

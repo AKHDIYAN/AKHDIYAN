@@ -43,14 +43,6 @@
   </a>
 </p>
 <br>
-<p align="center"><b>Libraries, Environments & Extra</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Laragon-00A2ED?style=for-the-badge&logo=windows&logoColor=white" alt="Laragon" />
-  <img src="https://img.shields.io/badge/React%20Bits-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Bits" />
-  <img src="https://img.shields.io/badge/React%20Aria-E34F26?style=for-the-badge&logo=react&logoColor=white" alt="React Aria" />
-  <img src="https://img.shields.io/badge/Antigravity-3776AB?style=for-the-badge&logo=python&logoColor=f0e040" alt="Antigravity" />
-</p>
-<br>
 
 ---
 

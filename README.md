@@ -58,6 +58,30 @@
 
 <br>
 
+<br>
+
+<h2 align="center">📈 Coding Activity Graph</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKHDIYAN&theme=tokyo-night&hide_border=true&area=true&color=36BCF7&line=F7DF1E&point=ffffff" alt="Activity Graph" width="100%" />
+</div>
+
+<br>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🔥 Commit Streak</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKHDIYAN&theme=transparent&hide_border=true&title_color=36BCF7&text_color=a3a3a3&sideNums=36BCF7&sideLabels=a3a3a3&ring=36BCF7&fire=F7DF1E&currStreakNum=ffffff" alt="GitHub Streak" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>💡 Random Dev Joke</h3>
+      <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <div align="center">
   <a href="mailto:muhammadakhdiyan@students.unnes.ac.id"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/muhammadraissa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>

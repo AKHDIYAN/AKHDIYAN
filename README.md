@@ -11,7 +11,13 @@
 ---
 
 <h2 align="center">👨‍💻 About Me</h2>
-<p align="center"> Welcome to my digital workspace! I am a passionate <b>Software Engineer</b> and an Information Systems student with a strong focus on building scalable, efficient, and user-friendly web applications. I specialize in full-stack development, bridging the gap between robust backend architectures using <b>PHP & Laravel</b> and dynamic frontend interfaces with <b>React</b>. I thrive in environments that challenge me to solve complex problems, optimize workflows, and continuously learn new technologies. </p>
+<p align="center">
+  Welcome to my digital workspace! 👋 I am an <b>Information Systems student at Universitas Negeri Semarang (UNNES)</b> and a passionate Software Engineer. My expertise lies at the intersection of full-stack application development, data analysis, and user experience. 
+  <br><br>
+  I specialize in bridging the gap between robust backend architectures (using <b>PHP, Laravel, and SQL</b>) and dynamic, intuitive frontend interfaces (leveraging <b>React and UI/UX principles</b>). Currently, I'm also expanding my analytical toolkit with <b>Python</b> to craft data-driven digital solutions that are not only highly functional but also deeply user-centric. 
+  <br><br>
+  Through my active involvement in campus organizations and my hands-on enterprise internship at <b>Pusdatin KemenPU</b>, I have honed my communication, teamwork, and problem-solving skills in fast-paced, real-world environments. I thrive on continuous learning and am always open to tech collaborations, especially in data-driven and impactful projects. Let's build something awesome!
+</p>
 <br>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -23,15 +29,15 @@
         <li>🎓 <b>Research:</b> Analisis Peran Social CRM (sCRM) pada Proses Value Creation & Performance Assessment (Payne's Model).</li>
         <li>💻 <b>Frontend Engineering:</b> Building a JSON-structured dynamic portfolio site and interactive Sales Dashboards using <b>React</b>.</li>
         <li>⚙️ <b>Backend & Infrastructure:</b> Deep diving into <b>PHP/Laravel</b> ecosystems and containerization workflows with <b>Docker</b>.</li>
-        <li>🛡️ <b>Side Quests:</b> Exploring Cybersecurity concepts, Agile Project Management, and AzuraCast server configurations.</li>
+        <li>🛡️ <b>Side Quests:</b> Exploring Python for Data Analysis, UI/UX Design patterns, and Cybersecurity concepts.</li>
       </ul>
     </td>
     <td width="45%" valign="top" align="center">
       <h2>🛠️ Tech Arsenal</h2>
-      <p align="center"><b>Frontend</b></p>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,js,ts,html,css" /></a><br>
-      <p align="center"><b>Backend & Database</b></p>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,laravel,mysql" /></a><br>
+      <p align="center"><b>Frontend & UI/UX</b></p>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,js,ts,html,css,figma" /></a><br>
+      <p align="center"><b>Backend & Data</b></p>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,laravel,mysql,python" /></a><br>
       <p align="center"><b>DevOps & Tools</b></p>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,github,vscode" /></a>
     </td>
@@ -40,29 +46,17 @@
 
 ---
 
-<h2 align="center">📊 Developer Metrics</h2>
-
+<h2 align="center">🔥 Commit Streak</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AKHDIYAN&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophies" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKHDIYAN&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7&bg_color=0D1117" height="180" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHDIYAN&layout=donut&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff&bg_color=0D1117" height="180" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKHDIYAN&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff&sideNums=ffffff&sideLabels=ffffff&ring=36BCF7&fire=F7DF1E&currStreakNum=ffffff" alt="GitHub Streak" />
 </div>
 <br>
 
-<h2 align="center">📈 Consistency & Activity</h2>
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKHDIYAN&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff&sideNums=ffffff&sideLabels=ffffff&ring=36BCF7&fire=F7DF1E&currStreakNum=ffffff" alt="GitHub Streak" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKHDIYAN&theme=tokyo-night&hide_border=true&area=true&color=36BCF7&line=F7DF1E&point=ffffff" alt="Activity Graph" width="100%" />
-    </td>
-  </tr>
-</table>
+<h2 align="center">📈 Coding Activity Graph</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKHDIYAN&theme=tokyo-night&hide_border=true&area=true&color=36BCF7&line=F7DF1E&point=ffffff" alt="Activity Graph" width="100%" />
+</div>
+<br>
 
 <h2 align="center">🐍 Contribution Grid</h2>
 <div align="center">

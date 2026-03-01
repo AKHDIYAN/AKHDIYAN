@@ -58,8 +58,6 @@
 
 <br>
 
-<br>
-
 <h2 align="center">📈 Coding Activity Graph</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKHDIYAN&theme=tokyo-night&hide_border=true&area=true&color=36BCF7&line=F7DF1E&point=ffffff" alt="Activity Graph" width="100%" />
@@ -82,9 +80,17 @@
 
 <br>
 
+<h2 align="center">📫 Let's Connect!</h2>
 <div align="center">
   <a href="mailto:muhammadakhdiyan@students.unnes.ac.id"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/muhammadraissa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/username_ig_lu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://tiktok.com/@username_tiktok_lu"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=AKHDIYAN&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
+
+<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:3B82F6&height=100&section=footer" />
 </div>

@@ -20,29 +20,29 @@
 </p>
 <br>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h2 align="center">🔥 Current Operations</h2>
-      <ul>
-        <li>🏢 <b>Enterprise Dev:</b> Architecting a Web-based SIMPEG (HR MIS) with automated administrative alerts as an intern at <b>Pusdatin KemenPU</b>.</li>
-        <li>🎓 <b>Research:</b> Analisis Peran Social CRM (sCRM) pada Proses Value Creation & Performance Assessment (Payne's Model).</li>
-        <li>💻 <b>Frontend Engineering:</b> Building a JSON-structured dynamic portfolio site and interactive Sales Dashboards using <b>React</b>.</li>
-        <li>⚙️ <b>Backend & Infrastructure:</b> Deep diving into <b>PHP/Laravel</b> ecosystems and containerization workflows with <b>Docker</b>.</li>
-        <li>🛡️ <b>Side Quests:</b> Exploring Python for Data Analysis, UI/UX Design patterns, and Cybersecurity concepts.</li>
-      </ul>
-    </td>
-    <td width="45%" valign="top" align="center">
-      <h2>🛠️ Tech Arsenal</h2>
-      <p align="center"><b>Frontend & UI/UX</b></p>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,js,ts,html,css,figma" /></a><br>
-      <p align="center"><b>Backend & Data</b></p>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,laravel,mysql,python" /></a><br>
-      <p align="center"><b>DevOps & Tools</b></p>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,github,vscode" /></a>
-    </td>
-  </tr>
-</table>
+<h2 align="center">🛠️ Tech Arsenal</h2>
+<br>
+<p align="center"><b>Frontend & UI/UX</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,figma" alt="Frontend Skills" />
+  </a>
+</p>
+<br>
+<p align="center"><b>Backend & Data</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,python" alt="Backend Skills" />
+  </a>
+</p>
+<br>
+<p align="center"><b>DevOps & Tools</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux" alt="Tools" />
+  </a>
+</p>
+<br>
 
 ---
 

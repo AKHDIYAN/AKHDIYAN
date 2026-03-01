@@ -25,22 +25,30 @@
 <p align="center"><b>Frontend & UI/UX</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,figma" alt="Frontend Skills" />
+    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,vite,figma" alt="Frontend Skills" />
   </a>
 </p>
 <br>
 <p align="center"><b>Backend & Data</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,python" alt="Backend Skills" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,mongodb,python" alt="Backend Skills" />
   </a>
 </p>
 <br>
 <p align="center"><b>DevOps & Tools</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode,postman,notion" alt="Tools" />
   </a>
+</p>
+<br>
+<p align="center"><b>Libraries, Environments & Extra</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Laragon-00A2ED?style=for-the-badge&logo=windows&logoColor=white" alt="Laragon" />
+  <img src="https://img.shields.io/badge/React%20Bits-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Bits" />
+  <img src="https://img.shields.io/badge/React%20Aria-E34F26?style=for-the-badge&logo=react&logoColor=white" alt="React Aria" />
+  <img src="https://img.shields.io/badge/Antigravity-3776AB?style=for-the-badge&logo=python&logoColor=f0e040" alt="Antigravity" />
 </p>
 <br>
 

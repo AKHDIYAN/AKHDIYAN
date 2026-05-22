@@ -46,28 +46,6 @@
 
 ---
 
-<h2 align="center">🔥 Commit Streak</h2>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKHDIYAN&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff&sideNums=ffffff&sideLabels=ffffff&ring=36BCF7&fire=F7DF1E&currStreakNum=ffffff" alt="GitHub Streak" />
-</div>
-<br>
-
-<h2 align="center">📈 Coding Activity Graph</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKHDIYAN&theme=tokyo-night&hide_border=true&area=true&color=36BCF7&line=F7DF1E&point=ffffff" alt="Activity Graph" width="100%" />
-</div>
-<br>
-
-<h2 align="center">🐍 Contribution Grid</h2>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AKHDIYAN/AKHDIYAN/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AKHDIYAN/AKHDIYAN/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AKHDIYAN/AKHDIYAN/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-<br>
-
 <h2 align="center">📫 Let's Connect!</h2>
 <p align="center">
   <a href="https://github.com/AKHDIYAN?tab=followers">

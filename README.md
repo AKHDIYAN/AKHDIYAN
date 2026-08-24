@@ -1,72 +1,27 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=250&section=header&text=Muhammad%20Raissa%20Akhdyan&fontSize=50&fontColor=ffff00&desc=Full-Stack%20Developer%20%7C%20Information%20Systems%20Student&descColor=ffff00&descAlignY=70&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&text=Muhammad%20Raissa%20Akhdyan&fontSize=38&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Information%20Systems%20UNNES&descColor=e0e0e0&descAlignY=70" width="100%" />
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Building+scalable+web+apps;Full-Stack+%26+Data+Enthusiast;Turning+coffee+into+clean+code.)](https://github.com/AKHDIYAN)
+
+  <p>
+    <a href="https://linkedin.com/in/muhammadraissa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:muhammadakhdiyan@students.unnes.ac.id"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="https://instagram.com/mrakhdyann/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+    <img src="https://komarev.com/ghpvc/?username=AKHDIYAN&label=Views&color=0e75b6&style=flat-square" />
+  </p>
 </div>
 
-<div align="center">
-  <a href="https://github.com/AKHDIYAN">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ffff00&center=true&vCenter=true&width=600&lines=system_init();Hi,+I'm+Raissa!+%F0%9F%91%8B;%7Bcode_architect:true%7D;error_count:0;Turning+coffee+into+clean+code." alt="Typing SVG" />
-  </a>
-</div>
+### 👨‍💻 About Me
+Information Systems student at **Universitas Negeri Semarang (UNNES)** passionate about building end-to-end digital solutions. Experienced in developing enterprise web applications with modern backend architectures and responsive user interfaces.
+
+* 🔭 Focus: **Full-Stack Development (Laravel & React)** and **Data Analytics**
+* 💼 Experience: Enterprise web development at **Pusdatin KemenPU**
+* 📫 Let's connect: [muhammadakhdiyan@students.unnes.ac.id](mailto:muhammadakhdiyan@students.unnes.ac.id)
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
-<p align="center">
-  Welcome to my digital workspace! 👋 I am an <b>Information Systems student at Universitas Negeri Semarang (UNNES)</b> and a passionate Software Engineer. My expertise lies at the intersection of full-stack application development, data analysis, and user experience. 
-  <br><br>
-  I specialize in bridging the gap between robust backend architectures (using <b>PHP, Laravel, and SQL</b>) and dynamic, intuitive frontend interfaces (leveraging <b>React and UI/UX principles</b>). Currently, I'm also expanding my analytical toolkit with <b>Python</b> to craft data-driven digital solutions that are not only highly functional but also deeply user-centric. 
-  <br><br>
-  Through my active involvement in campus organizations and my hands-on enterprise internship at <b>Pusdatin KemenPU</b>, I have honed my communication, teamwork, and problem-solving skills in fast-paced, real-world environments. I thrive on continuous learning and am always open to tech collaborations, especially in data-driven and impactful projects. Let's build something awesome!
-</p>
-<br>
-
-<h2 align="center">🛠️ Tech Arsenal</h2>
-<br>
-<p align="center"><b>Frontend & UI/UX</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,vite,figma" alt="Frontend Skills" />
-  </a>
-</p>
-<br>
-<p align="center"><b>Backend & Data</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,mongodb,python" alt="Backend Skills" />
-  </a>
-</p>
-<br>
-<p align="center"><b>DevOps & Tools</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode,postman,notion" alt="Tools" />
-  </a>
-</p>
-<br>
-
----
-
-<h2 align="center">📫 Let's Connect!</h2>
-<p align="center">
-  <a href="https://github.com/AKHDIYAN?tab=followers">
-    <img src="https://img.shields.io/github/followers/AKHDIYAN?label=GitHub%20Followers&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="mailto:muhammadakhdiyan@students.unnes.ac.id">
-    <img src="https://img.shields.io/badge/-muhammadakhdiyan@students.unnes.ac.id-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/mrakhdyann/">
-    <img src="https://img.shields.io/badge/-%40AKHDIYAN-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://linkedin.com/in/muhammadraissa">
-    <img src="https://img.shields.io/badge/-muhammadraissa-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://tiktok.com/@AKHDIYAN">
-    <img src="https://img.shields.io/badge/-%40AKHDIYAN-000000?style=flat&logo=TikTok&logoColor=white" alt="TikTok" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=AKHDIYAN&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-<br>
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,react,nodejs,python,mysql,tailwind,docker,git,figma,postman,vscode&perline=6" alt="Tech Stack" />
 </div>

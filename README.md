@@ -29,14 +29,16 @@
 ---
 
 ### 📊 GitHub Stats & Activity
-
-<div align="center">
-  <img src="./github-metrics.svg" alt="Metrics AKHDIYAN" width="100%" />
-</div>
+<p align="center">
+  <picture>
+    <img src="https://raw.githubusercontent.com/AKHDIYAN/AKHDIYAN/main/github-metrics.svg" alt="Raissa's GitHub Metrics">
+  </picture>
+</p>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
+Berdasarkan pengalaman proyek dan pembelajaran saya:
 
 **Languages & Core**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

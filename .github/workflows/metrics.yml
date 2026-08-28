@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Menggunakan Token khusus agar membaca commit private
+          # Menggunakan Secret Token kamu
           token: ${{ secrets.METRICS_TOKEN }}
 
           user: AKHDIYAN
@@ -20,10 +20,8 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Jakarta
 
-          # Mengaktifkan perhitungan repository private
-          config_octokit: |
-            repositories:
-              affiliations: owner, collaborator, organization_member
+          # Opsi yang VALID untuk menarik data repo private & collaborator
+          repositories_affiliations: owner, collaborator, organization_member
 
           # Kalender Kontribusi 3D (Isocalendar)
           plugin_isocalendar: yes

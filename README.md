@@ -24,7 +24,7 @@
 - 🚀 **Currently working on:** (Pusdatin) Kementerian PUPR (**Dashboard Kepegawaian**) & Website Anak Magang
 - 📚 **Learning:** Advanced Data Science, Softwere Development & Cloud Computing
 - 💡 **Skills:** Problem Solving, Teamwork, Fast Learner, & Analytical Thinking
-- ✉️ **Reach me at:** [raissaakhdiyan.com](mailto:raissaakhdiyan@gmail.com) |🌐 **Agency/Studio:** [Aksiva Studio](https://aksivastudio.id/)
+- ✉️ **Reach me at:** [raissaakhdiyan@gmail.com](mailto:raissaakhdiyan@gmail.com) |🌐 [Aksiva Studio](https://aksivastudio.id/)
 
 ---
 

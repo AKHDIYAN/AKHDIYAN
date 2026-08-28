@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <i>Saya adalah mahasiswa Sistem Informasi aktif di Universitas Negeri Semarang yang berfokus pada <b>Software Development</b> & <b>Data Science</b>. Berpengalaman dalam membangun aplikasi modern berbasis Web & Desktop.</i>
+  <i>Saya adalah mahasiswa Sistem Informasi Universitas Negeri Semarang dengan IPK <b>3.90/4.00</b> yang memiliki passion mendalam di bidang <b>Software Development</b>, <b>Data Science</b>, & <b>Cloud Computing</b>.<br>Berada di lingkungan PTN-BH memacu saya untuk terus aktif berkembang dan mengeksplorasi teknologi baru demi menciptakan produk digital yang presisi, solutif, dan berdampak nyata bagi industri.</i>
 </p>
 
 ---
@@ -31,14 +31,7 @@
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKHDIYAN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="AKHDIYAN's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHDIYAN&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKHDIYAN&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="./github-metrics.svg" alt="Metrics AKHDIYAN" width="100%" />
 </div>
 
 ---

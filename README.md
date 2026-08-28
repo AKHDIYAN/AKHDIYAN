@@ -31,7 +31,7 @@
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="Metrics AKHDIYAN" width="100%" />
+  <img src="./github-metrics.svg" alt="Metrics AKHDIYAN" width="480" />
 </div>
 
 ---

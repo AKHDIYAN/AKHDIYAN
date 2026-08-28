@@ -1,14 +1,13 @@
-# <div align="center">👋 Hi, I'm **Muhammad Raissa Akhdyan
-**</div>
+# <div align="center">👋 Hi, I'm **Muhammad Raissa Akhdyan**</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&height=50&lines=Information+Systems+Student;Software+Developer+%26+Data+Science;Building+Solutions+with+Python+%26+Laravel" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/1aghismuhammad"><img src="https://img.shields.io/badge/Status-Undergraduate_Student-brightgreen?style=for-the-badge&logo=github" alt="Status" /></a>
+  <a href="https://github.com/AKHDIYAN"><img src="https://img.shields.io/badge/Status-Undergraduate_Student-brightgreen?style=for-the-badge&logo=github" alt="Status" /></a>
   <a href="mailto:laghismuhammad@gmail.com"><img src="https://img.shields.io/badge/Current_GPA-3.90%2F4.00-gold?style=for-the-badge&logo=googleacademic" alt="GPA" /></a>
-  <a href="https://github.com/1aghismuhammad"><img src="https://img.shields.io/badge/Campus-UNNES-blue?style=for-the-badge" alt="Campus" /></a>
+  <a href="https://github.com/AKHDIYAN"><img src="https://img.shields.io/badge/Campus-UNNES-blue?style=for-the-badge" alt="Campus" /></a>
 </p>
 
 ---
@@ -22,18 +21,24 @@
 ### 📌 About Me
 
 - 🎓 **Education:** Information Systems Student, Universitas Negeri Semarang (*Current GPA: 3.90/4.00*)
-- 🚀 **Currently working on:** Sistem Manajemen Gym (**AksivaFit**) & Website Komersial Kopi
-- 📚 **Learning:** Advanced Data Science & Next.js Ecosystem
+- 🚀 **Currently working on:** (Pusdatin) Kementerian PUPR (**Dashboard Kepegawaian**) & Website Anak Magang
+- 📚 **Learning:** Advanced Data Science, Softwere Development & Cloud Computing
 - 💡 **Skills:** Problem Solving, Teamwork, Fast Learner, & Analytical Thinking
-- 🌐 **Agency/Studio:** [Aksiva Studio](https://github.com/1aghismuhammad)
-- ✉️ **Reach me at:** [laghismuhammad@gmail.com](mailto:laghismuhammad@gmail.com)
+- ✉️ **Reach me at:** [raissaakhdiyan.com](mailto:raissaakhdiyan@gmail.com) |🌐 **Agency/Studio:** [Aksiva Studio](https://aksivastudio.id/)
 
 ---
 
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/1aghismuhammad?template=classic&config.timezone=Asia%2FJakarta" alt="GitHub Metrics" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AKHDIYAN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="AKHDIYAN's GitHub Stats" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHDIYAN&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKHDIYAN&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -49,7 +54,7 @@
 **Web Development**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 

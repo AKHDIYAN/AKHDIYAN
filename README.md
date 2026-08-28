@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <i>Saya adalah mahasiswa Sistem Informasi Universitas Negeri Semarang dengan IPK <b>3.90/4.00</b> yang memiliki passion mendalam di bidang <b>Software Development</b>, <b>Data Science</b>, & <b>Cloud Computing</b>.<br>Berada di lingkungan PTN-BH memacu saya untuk terus aktif berkembang dan mengeksplorasi teknologi baru demi menciptakan produk digital yang presisi, solutif, dan berdampak nyata bagi industri.</i>
+  <i>Saya adalah mahasiswa Sistem Informasi Universitas Negeri Semarang dengan IPK <b>3.90/4.00</b> yang memiliki passion mendalam di bidang <b>Software Development</b>, <b>Data Science</b>, & <b>Cloud Computing</b>.Berada di lingkungan PTN-BH memacu saya untuk terus aktif berkembang dan mengeksplorasi teknologi baru demi menciptakan produk digital yang presisi, solutif, dan berdampak nyata bagi industri.</i>
 </p>
 
 ---

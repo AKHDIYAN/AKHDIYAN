@@ -13,14 +13,14 @@
 ---
 
 <p align="center">
-  <i>Saya adalah mahasiswa Sistem Informasi Universitas Negeri Semarang dengan IPK <b>3.90/4.00</b> yang memiliki passion mendalam di bidang <b>Software Development</b>, <b>Data Science</b>, & <b>Cloud Computing</b>.Berada di lingkungan PTN-BH memacu saya untuk terus aktif berkembang dan mengeksplorasi teknologi baru demi menciptakan produk digital yang presisi, solutif, dan berdampak nyata bagi industri.</i>
+  <i>Saya adalah mahasiswa Sistem Informasi Universitas Negeri Semarang dengan IPK <b>3.90/4.00</b> yang memiliki passion mendalam di bidang <b>Software Development</b>, <b>Data Science</b>, & <b>Cloud Computing</b>. Berada di lingkungan PTN-BH memacu saya untuk terus aktif berkembang dan mengeksplorasi teknologi baru demi menciptakan produk digital yang presisi, solutif, dan berdampak nyata bagi industri.</i>
 </p>
 
 ---
 
 ### 📌 About Me
 
-- 🎓 **Education:** Information Systems Student, Universitas Negeri Semarang (*Current GPA: 3.90/4.00*)
+- 🎓 **Education:** S1 Sistem Informasi, Universitas Negeri Semarang (Current GPA: 3.93/4.00).
 - 🚀 **Currently working on:** (Pusdatin) Kementerian PUPR (**Dashboard Kepegawaian**) & Website Anak Magang
 - 📚 **Learning:** Advanced Data Science, Software Development & Cloud Computing
 - 💡 **Skills:** Problem Solving, Teamwork, Fast Learner, & Analytical Thinking
@@ -66,11 +66,8 @@
 ---
 
 ### 🏆 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **AksivaFit** | Sistem Manajemen Gym dan pengelolaan kebugaran | `Laravel` `MySQL` `Bootstrap` |
-| **Aplikasi UMKM Sales** | Sistem informasi penjualan berbasis web | `Laravel` `MySQL` `Tailwind` |
-| **Personal Portfolio** | Website portofolio responsif dengan desain modern | `Next.js` `Tailwind CSS` |
-| **Keluang** | Aplikasi desktop untuk manajemen keuangan | `Python` `Tkinter` |
-| **Sistem Penjualan Tiket** | Sistem pemesanan tiket berbasis konsol/CLI | `C++` |
+1. **Sistem Manajemen Gym (AksivaFit)** (Laravel) - Pengembangan sistem informasi pengelolaan kebugaran (sedang berjalan).
+2. **Aplikasi UMKM Sales** (Laravel, MySQL) - Sistem informasi penjualan berbasis web.
+3. **Personal Portfolio** (Next.js, Tailwind) - Website portofolio responsif dengan UI/UX modern.
+4. **KeLuang: Financial App** (Python Tkinter) - Aplikasi desktop manajemen keuangan.
+5. **Sistem Penjualan Tiket** (C++) - Sistem pemesanan tiket berbasis konsol.

@@ -66,8 +66,14 @@ Berdasarkan pengalaman proyek dan pembelajaran saya :
 ---
 
 ### 🏆 Featured Projects
-1. **Sistem Manajemen Gym (AksivaFit)** (Laravel) - Pengembangan sistem informasi pengelolaan kebugaran (sedang berjalan).
-2. **Aplikasi UMKM Sales** (Laravel, MySQL) - Sistem informasi penjualan berbasis web.
-3. **Personal Portfolio** (Next.js, Tailwind) - Website portofolio responsif dengan UI/UX modern.
-4. **KeLuang: Financial App** (Python Tkinter) - Aplikasi desktop manajemen keuangan.
-5. **Sistem Penjualan Tiket** (C++) - Sistem pemesanan tiket berbasis konsol.
+
+1. **Mini EHRM & Notification Engine** (`Laravel` • `MySQL` • `RESTful API`)
+   Sistem manajemen SDM elektronik dan engine notifikasi otomatis untuk sinkronisasi data pegawai, manajemen role-based access control (RBAC), dan dynamic document generation.
+2. **Portal Magang Pusdatin** (`Laravel` • `MySQL` • `Bootstrap / Tailwind CSS`)
+   Sistem informasi manajemen dan administrasi program magang terintegrasi di lingkungan Pusat Data dan Teknologi Informasi (PUSDATIN).
+3. **Murung Raya Jobs** (`Laravel` • `MySQL` • `Tailwind CSS`)
+   Platform job portal dan bursa kerja daerah untuk memfasilitasi pencari kerja, publikasi lowongan terverifikasi, dan manajemen pelamar secara terpusat.
+4. **Web Portal Desa Candirejo** (`Laravel` • `MySQL` • `Bootstrap`)
+   Sistem informasi dan layanan digital desa untuk profiling potensi wilayah, transparansi informasi publik, serta etalase digital UMKM lokal.
+5. **iTask - Task & Productivity Management System** (`React` / `Next.js` • `REST API` • `MySQL`)
+   Aplikasi manajemen tugas dan tracking produktivitas tim/personal dengan antarmuka interaktif dan pemantauan status *real-time*.

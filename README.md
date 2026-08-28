@@ -1,14 +1,27 @@
-# Hi there, I'm Muhamad Aghis Najib! 👋
+# <div align="center">👋 Hi, I'm **Muhammad Raissa Akhdyan
+**</div>
 
-### 👨‍💻 Information Systems Undergraduate Student @ Universitas Negeri Semarang
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&height=50&lines=Information+Systems+Student;Software+Developer+%26+Data+Science;Building+Solutions+with+Python+%26+Laravel" alt="Typing SVG" />
+</p>
 
-Saya adalah mahasiswa Sistem Informasi aktif di Universitas Negeri Semarang dengan IPK **3.90/4.00**. Memiliki ketertarikan mendalam di bidang **Software Development** dan **Data Science**, serta aktif membangun aplikasi modern menggunakan Python, Laravel, dan Next.js.
+<p align="center">
+  <a href="https://github.com/1aghismuhammad"><img src="https://img.shields.io/badge/Status-Undergraduate_Student-brightgreen?style=for-the-badge&logo=github" alt="Status" /></a>
+  <a href="mailto:laghismuhammad@gmail.com"><img src="https://img.shields.io/badge/Current_GPA-3.90%2F4.00-gold?style=for-the-badge&logo=googleacademic" alt="GPA" /></a>
+  <a href="https://github.com/1aghismuhammad"><img src="https://img.shields.io/badge/Campus-UNNES-blue?style=for-the-badge" alt="Campus" /></a>
+</p>
 
 ---
 
-## 📌 About Me
+<p align="center">
+  <i>Saya adalah mahasiswa Sistem Informasi aktif di Universitas Negeri Semarang yang berfokus pada <b>Software Development</b> & <b>Data Science</b>. Berpengalaman dalam membangun aplikasi modern berbasis Web & Desktop.</i>
+</p>
 
-- 🎓 **Status:** Information Systems Student, Universitas Negeri Semarang (Current GPA: 3.90/4.00)
+---
+
+### 📌 About Me
+
+- 🎓 **Education:** Information Systems Student, Universitas Negeri Semarang (*Current GPA: 3.90/4.00*)
 - 🚀 **Currently working on:** Sistem Manajemen Gym (**AksivaFit**) & Website Komersial Kopi
 - 📚 **Learning:** Advanced Data Science & Next.js Ecosystem
 - 💡 **Skills:** Problem Solving, Teamwork, Fast Learner, & Analytical Thinking
@@ -17,22 +30,15 @@ Saya adalah mahasiswa Sistem Informasi aktif di Universitas Negeri Semarang deng
 
 ---
 
-## 📊 GitHub Stats & Activity
+### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1aghismuhammad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aghis's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1aghismuhammad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1aghismuhammad&theme=tokyonight&column=6&no-bg=true" alt="Trophies" />
+  <img src="https://metrics.lecoq.io/1aghismuhammad?template=classic&config.timezone=Asia%2FJakarta" alt="GitHub Metrics" width="100%" />
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 **Languages & Core**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -60,7 +66,7 @@ Saya adalah mahasiswa Sistem Informasi aktif di Universitas Negeri Semarang deng
 
 ---
 
-## 🏆 Featured Projects
+### 🏆 Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |

@@ -19,24 +19,17 @@
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <!-- Grafik Tren Aktivitas Commit -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKHDIYAN&theme=tokyonight&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Kartu Statistik Utama -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AKHDIYAN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
-  <!-- Kartu Commit Streak -->
+  <!-- GitHub Readme Stats (Fallback Endpoint Vercel) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AKHDIYAN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
+  <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKHDIYAN&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHDIYAN&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+  <!-- Top Languages Card (Fallback Endpoint Vercel) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AKHDIYAN&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 ---

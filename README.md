@@ -1,7 +1,7 @@
-# <div align="center">👋 Hi, I'm **Muhammad Raissa Akhdyan**</div>
+# <div align="center">👋 Hi, I'm **Muhammad Raissa Akhdiyan**</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&height=50&lines=Information+Systems+Student;Software+Developer+%26+Data+Science;Building+Solutions+with+Python+%26+Laravel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&height=50&lines=Information+Systems+Student;Software+Developer+%26+Data+Science;Building+Solutions+with+PHP+%26+Laravel" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,16 +28,7 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-<div align="center">
-  <img src="./github-metrics.svg" alt="Metrics AKHDIYAN" width="480" />
-</div>
-
----
-
 ### 🛠️ Tech Stack & Tools
-Berdasarkan pengalaman proyek dan pembelajaran saya :
 
 **Languages & Core**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -67,13 +58,13 @@ Berdasarkan pengalaman proyek dan pembelajaran saya :
 
 ### 🏆 Featured Projects
 
-1. **Mini EHRM & Notification Engine** (`Laravel` • `MySQL` • `RESTful API`)
+1. **Mini EHRM & Notification Engine** (`Laravel` • `MySQL` • `RESTful API`)  
    Sistem manajemen SDM elektronik dan engine notifikasi otomatis untuk sinkronisasi data pegawai, manajemen role-based access control (RBAC), dan dynamic document generation.
-2. **Portal Magang Pusdatin** (`Laravel` • `MySQL` • `Bootstrap / Tailwind CSS`)
+2. **Portal Magang Pusdatin** (`Laravel` • `MySQL` • `Bootstrap / Tailwind CSS`)  
    Sistem informasi manajemen dan administrasi program magang terintegrasi di lingkungan Pusat Data dan Teknologi Informasi (PUSDATIN).
-3. **Murung Raya Jobs** (`Laravel` • `MySQL` • `Tailwind CSS`)
+3. **Murung Raya Jobs** (`Laravel` • `MySQL` • `Tailwind CSS`)  
    Platform job portal dan bursa kerja daerah untuk memfasilitasi pencari kerja, publikasi lowongan terverifikasi, dan manajemen pelamar secara terpusat.
-4. **Web Portal Desa Candirejo** (`Laravel` • `MySQL` • `Bootstrap`)
+4. **Web Portal Desa Candirejo** (`Laravel` • `MySQL` • `Bootstrap`)  
    Sistem informasi dan layanan digital desa untuk profiling potensi wilayah, transparansi informasi publik, serta etalase digital UMKM lokal.
-5. **iTask - Task & Productivity Management System** (`React` / `Next.js` • `REST API` • `MySQL`)
+5. **iTask - Task & Productivity Management System** (`React` / `Next.js` • `REST API` • `MySQL`)  
    Aplikasi manajemen tugas dan tracking produktivitas tim/personal dengan antarmuka interaktif dan pemantauan status *real-time*.
